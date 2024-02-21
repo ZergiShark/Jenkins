@@ -39,4 +39,4 @@
     ![img_7.png](./img/img_7.png)  
 - Проверил работоспособность  
     ![img_6.png](./img/img_6.png)  
-- Вложил в репозиторий файл со скриптом [ScriptedJenkinsfile](https://https://github.com/ZergiShark/vector-role/blob/main/ScriptedJenkinsfile)
+- Вложил в репозиторий файл со скриптом [ScriptedJenkinsfile](https://github.com/ZergiShark/vector-role/blob/main/ScriptedJenkinsfile)
